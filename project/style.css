@@ -102,7 +102,8 @@ header a:hover, footer a:hover{
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: right top;
+  
+  
 }
 
 .container_flor div {
@@ -228,6 +229,7 @@ main img {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: right top;
   }
 
   .parallax02 {
